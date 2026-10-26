@@ -13,6 +13,9 @@
 
 ## Lean Canvas
 
+<img width="1261" height="697" alt="image" src="https://github.com/user-attachments/assets/8795b06d-8073-4bac-a1d4-3600d23b173e" />
+
+
 # ДЗ 2. Гипотезы и юнит-экономика
 
 ### 1. HADI-гипотеза
